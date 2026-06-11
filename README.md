@@ -19,9 +19,3 @@ The infrastructure mimics a real-world production tier separation by splitting r
 ### Prerequisites
 *   Vagrant installed on your host machine.
 *   VMware Desktop Provider configured (optimized for Apple Silicon/ARM architectures).
-
-### Deployment Steps
-1. Clone this repository to your local machine:
-```bash
-   git clone [https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git)
-   cd YOUR_REPO_NAME
